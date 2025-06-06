@@ -5,6 +5,8 @@ This guide provides step-by-step instructions to optimize your HP ProBook 460 G1
 Note: I am a hobbyist Linux User but would like to share this method both as a way for my self to repeat this in the inevitable future that I will need this guide or for any folks like myself who are currently struggling to find the solution.
 Any suggestions to improve the guide is welcomed, esp for other operating systems and configurations. The Co-pilot key bugs me so much.
 
+Please Star + Share this guide with your favorite discord groups, the folks who want this may not even know it yet.
+
 ## Prerequisites
 
 - An HP ProBook 460 G11 or a similar model
