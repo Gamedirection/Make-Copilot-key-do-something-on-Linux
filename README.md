@@ -1,5 +1,4 @@
-# Guide to Enhancing HP ProBook with Albert on Linux with Copilot Key
-
+# Guide to Enhancing HP ProBook with a Copilot key on Linux using Albert
 This guide provides step-by-step instructions to optimize your HP ProBook 460 G11, or similar models, by configuring the Copilot key on Linux. It covers the installation of essential software, remapping of keys, and setting up a hotkey for enhanced productivity.
 
 Note: I am a hobbyist Linux User but would like to share this method both as a way for my self to repeat this in the inevitable future that I will need this guide or for any folks like myself who are currently struggling to find the solution.
