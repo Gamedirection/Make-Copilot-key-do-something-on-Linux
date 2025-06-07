@@ -5,6 +5,8 @@ Note: I am a hobbyist Linux User but would like to share this method both as a w
 Any suggestions to improve the guide is welcomed, esp for other operating systems and configurations. The Co-pilot key bugs me so much.
 
 Please Star + Share this guide with your favorite discord groups, the folks who want this may not even know it yet.
+![image](https://github.com/user-attachments/assets/fea9aff5-c169-4052-83aa-713716e9a9aa)
+
 
 ## Prerequisites
 
